@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PhotoSend_Kotlin</string>
+    <string name="instructions">Click on the following button to start the process</string>
+    <string name="start">start</string>
+    <string name="selectPic">Select from gallery</string>
+    <string name="gotoStage2">Go to 2nd Stage</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="btnSelectContact">Select contact</string>
+    <string name="gotoStage3">Go to 3rd Stage</string>
+    <string name="confirm">Add the message you want to send to your contact.</string>
+    <string name="following">The following image will be sent to the contact below</string>
+    <string name="message">Insert Message</string>
+    <string name="send">Send Mail</string>
+    <string name="emailSent">Email sent</string>
+</resources>
